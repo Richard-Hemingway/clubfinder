@@ -2,7 +2,7 @@
 
 clubfinder is an SQLite database of Rifle Shooting Clubs in the United Kingdom.
 
-It currently covers ~270clubs. The Channel Islands, Isle of Man, Northern Ireland, Wales, and Scotland are broadly complete whilst England is good up to the County of Durham and Cleveland!
+It currently covers more than 300 clubs. The Channel Islands, Isle of Man, Northern Ireland, Wales, and Scotland are broadly complete whilst England is good up to the County of Hertfordshire!
 
 ## Why?
 
