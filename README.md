@@ -2,7 +2,7 @@
 
 clubfinder is an SQLite database of Rifle Shooting Clubs in the United Kingdom.
 
-It currently covers more than 700 clubs and is now broadly complete across the Channel Islands, Isle of Man, Northern Ireland, Wales, Scotland and England for Smallbore (NSRA) along with covering some Fullbore (NRA) clubs (particularly dual-affiliated clubs).
+It currently covers more than 720 clubs and is now broadly complete across the UK for Smallbore (NSRA) clubs along with Fullbore (NRA) clubs for Wales, Scotland and Northern Ireland.
 
 ## Why?
 
@@ -20,7 +20,7 @@ The first pass consists mostly of smallbore clubs turned up web.archive.org copi
 
 ## Contributing
 
-You are encouraged to submit Pull Requests with updated data. It should be preferable to push changes to the master file as a single, publicly-maintained source of truth rather than editing your own private copy/fork and having to rebase your modified file with an updated master file.
+You are encouraged to submit Pull Requests and Issues with updated data. It should be preferable to push changes to the master file as a single, publicly-maintained source of truth rather than editing your own private copy/fork and having to rebase your modified file with an updated master file.
 
 Pull requests will only be accepted for the actual clubfinder.sqlite database. Any subsidiary files or reports (e.g. extracts in csv format) that I may get around to outputting for people's convenience are/will be generated from that master file, meaning that each time the SQLite file is updated, those reports will be overwritten so please do not invest time or effort in updating them! They are intended for Read-Only consumption. If you are not comfortable updating the SQLite database yourself and submitting a Pull Request, you can log missing clubs or incorrect data as bugs or comments.
 
