@@ -2,7 +2,7 @@
 
 clubfinder is an SQLite database of Rifle Shooting Clubs in the United Kingdom.
 
-It currently covers more than 720 clubs and is now broadly complete across the UK for Smallbore (NSRA) clubs along with Fullbore (NRA) clubs for Wales, Scotland and Northern Ireland.
+It currently covers more than 800 clubs and is now broadly complete across the UK for Smallbore (NSRA) clubs along with Fullbore (NRA) clubs for Wales, Scotland, Northern Ireland and about half of England.
 
 ## Why?
 
